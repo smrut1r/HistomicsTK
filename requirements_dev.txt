@@ -5,7 +5,7 @@ ipython<6.0.0
 jupyter>=1.0.0
 nbsphinx>=0.2.8
 pprintpp==0.2.3
-PyYAML==3.11
+PyYAML==5.1
 Sphinx==1.6.2
 sphinx-rtd-theme==0.1.9
 watchdog==0.8.3
